@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Mariana 👋
 
 <!--
 **Marianaa93/Marianaa93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
