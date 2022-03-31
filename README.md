@@ -1,4 +1,9 @@
-### Hi, I am Mariana 👋
+<p align="center">
+  <img src="https://res.cloudinary.com/maariana93/image/upload/v1648684543/twitter_header_photo_2_tbwilb.png" />
+</p>
+<h2> Hi, I am Mariana 👋</h2>
+
+
 [![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianaa93&theme=vue&show_icons=true&layout=compact)](https://github.com/Marianaa93/github-readme-stats)
 
 [![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianaa93&theme=vue&show_icons=true&layout=compact)](https://github.com/Marianaa93)
