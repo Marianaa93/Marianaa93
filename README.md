@@ -5,8 +5,9 @@
 </p>
 <h2>Hi, I am Mariana (She/Her)</h2><br>
  👩🏻‍🎓 I am environmental engineer and FullStack Web Developer<br>
- 🌱 Currently I am working on my frontend skills<br>
  👯 I’m looking to collaborate on frontend projects<br>
+ 🌱 Currently I am working on my frontend skills<br>
+ 📝 I write as a hobby
 
   <hr>
 
