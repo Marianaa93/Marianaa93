@@ -32,11 +32,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-word
 <h3> Contact </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mariana-lima-e-maia-a31b2816b/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width=40/>
     </a><span>&nbsp;</span>
   
   <a href="mailto:marianalima.amb@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width=40/>
   </a><span>&nbsp;</span>
 </p>
 <!--
