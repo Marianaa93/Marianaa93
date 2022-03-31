@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://res.cloudinary.com/maariana93/image/upload/v1648686433/6M8G_iazxxy.gif">
 </p>
 <h2> Hi, I am Mariana 👋</h2>
