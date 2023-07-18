@@ -15,10 +15,10 @@
 <h3> Insights</h3>
 <p align="center">
   
-![Mariana's Stats](https://github-readme-stats.vercel.app/api?username=Mariana93&show_icons=true)
+![Mariana's Stats](https://github-readme-stats.vercel.app/api?username=Marianaa93&show_icons=true)
 
   <br>
-[![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianaa93&theme=vue&show_icons=true&layout=compact)](https://github.com/Marianaa93/github-readme-stats)
+
  </p>
 <br>
   <br>
