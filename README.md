@@ -22,6 +22,7 @@
 
  </p>
 <br>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianaa93&theme=blue-green)
   <br>
 <h3> Tech Skills </h3>
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width=40 />  <img
