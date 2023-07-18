@@ -14,7 +14,7 @@
 
 <h3> Insights</h3>
 <p align="center">
-![Mariana's Stats]](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianaa93&theme=blue-green)
+![Mariana's Stats]](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianaa93)
 
 
   <br>
