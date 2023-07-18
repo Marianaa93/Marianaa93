@@ -18,6 +18,7 @@
 ![Mariana's Stats](https://github-readme-stats.vercel.app/api?username=Marianaa93&show_icons=true)
 
   <br>
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianaa93&theme=blue-green)
 
  </p>
 <br>
